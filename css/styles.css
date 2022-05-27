@@ -1,0 +1,46 @@
+body {
+  background-color: #C2DED1;
+}
+
+h1{
+  text-align: center;
+  font-family: "Brush Script MT", cursive;
+}
+
+p{
+  text-align: center;
+  font-family: "Brush Script MT", cursive;
+}
+
+hr {
+  border-style: none;
+  border-top: dotted;
+  border-color: #ECE5C7;
+  width: 10%;
+  border-width: 20px;
+  opacity: 27%
+}
+
+div{
+  margin:0 auto;
+  text-align: center;
+}
+/********************************Class Selectors********************************/
+
+.halp{
+  text-align: center;
+  font-size: 100px;
+  font-family: "Brush Script MT", cursive;
+}
+
+.poze{
+  margin:auto;
+ width: 10%;
+ border:none;
+}
+
+
+
+
+
+/********************************ID SELECTORS********************************/
